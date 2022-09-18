@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.main-div {
+    height: 50vw;
+}
+
+.scn {
+    height: 20vw;
+}
+
+.hrs, .colon1, .mins, .colon2, .secs {
+    font-size: 10vw;
+}
+
+.btn {
+    width: 10vw;
+    margin-left:5vw;
+    font-size:2vw;
+}
+
+.buttons {
+    margin-top:3vw;
+    margin-left:20vw;
+}
+
+
+/* @media only screen
+and (min-width:321px) { color:red} */
